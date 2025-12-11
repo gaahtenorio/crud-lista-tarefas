@@ -46,11 +46,12 @@ Tabela: tarefas
 - mysql-connector-python (Conector Python <-> MySQL)
 
 ## 📂 Estrutura do projeto
+```bash
 lista_tarefas/
 │
 ├── app.py          # Código principal do CRUD e interface Tkinter
 └── README.md       # Documentação do projeto
-
+```
 
 ## 🚀 Como usar
 
