@@ -6,7 +6,7 @@ from tkinter import messagebox, ttk
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="3269",
+    password="sua-senha",
     database="lista_tarefas"
 )
 cursor = db.cursor()
